@@ -1,0 +1,5 @@
+body {
+    background-color: gray; 
+    background-image: linear-gradient(rgb(40, 238, 129), white);
+    width: auto;
+}

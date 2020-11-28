@@ -1,0 +1,140 @@
+body {
+    background-color: gray; 
+    background-image: linear-gradient(rgb(174, 192, 9), white);
+    width: auto;
+}
+
+
+
+main {
+    max-width: 1045px;
+    min-width: 600px;
+    min-height: 100px;
+    margin: auto;
+    border: 0px solid black;
+    
+}
+
+.virsraksts {
+    width: 180px;
+    font-size: 35px;
+    font-weight: bold;
+    margin: auto;
+
+    border-radius: 7px;
+}
+
+.h5 {
+    width: 250px;
+    padding: 5px;
+    font-weight: bold;
+    margin: auto;
+
+    border-radius: 7px
+
+}
+
+.komentars {
+    width: 200px;
+    padding: 5px;
+    font-weight: bold;
+    margin: auto;
+
+    border-radius: 7px;
+}
+
+.komentars1 {
+    width: 300px;
+    padding: 5px;
+    font-size: 35px;
+    font-weight: bold;
+    margin: auto;
+}
+
+.komentars2 {
+    width: 300px;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    margin: auto; 
+}
+
+.distance {
+    height: 50px;
+    border: 0px solid black;
+}
+
+.pirmais {
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.aa {
+    height: 300px;
+    width: 220px;
+}
+
+.BB {
+    height: 300px;
+    width: 250px;
+    font-size: 20px;
+    padding: 10px 5px 10px 5px;
+}
+
+.cc {
+    border-radius: 5px;
+    height: 300px;
+    width: 220px;
+}
+
+.back {
+    
+    border-radius: 7px;
+    height: 80px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+
+}
+.darbi {
+    background: rgb(4, 134, 255);
+    border-radius: 7px;
+    padding: 20px 50px 20px 50px;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 0px;
+    color: #edeff5;
+}
+.hobiji {
+    background: rgb(4, 134, 255);
+    border-radius: 7px;
+    padding: 20px 50px 20px 50px;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 0px;
+    color: #edeff5;  
+}
+.kontakti {
+    background: rgb(4, 134, 255);
+    border-radius: 7px;
+    padding: 20px 50px 20px 50px;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 0px;
+    color: #edeff5;
+}
+
+.img1 {
+    width: 1045px;
+    height: 400px;
+    margin: auto;
+}
